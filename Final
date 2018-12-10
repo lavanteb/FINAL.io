@@ -3,10 +3,14 @@
   <title>website title</title>
  </head>
  <body>
-  <div class="w3-bar w3-black">
-  <div class="w3-bar-item">London</div>
-  <div class="w3-bar-item">Paris</div>
-  <div class="w3-bar-item">Tokyo</div>
+ 	<div class="w3-bar w3-black">
+  <a href="#" class="w3-bar-item w3-button">COMPLEX</a>
+  <a href="#" class="w3-bar-item w3-button">NEWS</a>
+  <a href="#" class="w3-bar-item w3-button">MUSIC</a>
+  <a href="#" class="w3-bar-item w3-button">SPORTS</a>
+  <a href="#" class="w3-bar-item w3-button">LIFE</a>
+  <a href="#" class="w3-bar-item w3-button">SNEAKERS</a>
 </div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PH3kBCSfL-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </body>
 </html>

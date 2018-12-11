@@ -2,6 +2,9 @@
  <head>
  	<link rel="stylesheet" type="text/css" href="theme.css">
  	<link rel="stylesheet" type="text/css" href="style.css">
+ 	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+ 	<html>
+ <head>
   <title>website title</title>
  </head>
  <body>
@@ -12,11 +15,13 @@
  	</style>
  	<div class="w3-bar w3-black">
   <a href="#" class="w3-bar-item w3-button"><font size="12" color="Black">COMPLEX</font></a></b>
- <h2><a href="#" class="w3-bar-item w3-button">NEWS</a></h2>
-  <h2><a href="#" class="w3-bar-item w3-button">MUSIC</a></h2>
-  <h2><a href="#" class="w3-bar-item w3-button">SPORTS</a></h2>
-  <h2><a href="#" class="w3-bar-item w3-button">LIFE</a></h2>
-  <h2><a href="#" class="w3-bar-item w3-button">SNEAKERS</a></h2>
+  <ul>
+  <li><a href="#" class="w3-bar-item w3-button">NEWS</a></li>
+  <li><a href="#" class="w3-bar-item w3-button">MUSIC</a></li>
+  <li><a href="#" class="w3-bar-item w3-button">SPORTS</a></li>
+  <li><a href="#" class="w3-bar-item w3-button">LIFE</a></li>
+  <li><a href="#" class="w3-bar-item w3-button">SNEAKERS</a></li>
+</ul>
 </div>
 <p>POPCULTURE
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PH3kBCSfL-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><p>POPCULTURE</p></iframe>

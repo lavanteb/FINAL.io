@@ -24,11 +24,13 @@
   <li><a href="#" class="w3-bar-item w3-button">SNEAKERS</a></li>
 </ul>
 </div>
-<p>POPCULTURE 
+<p>POPCULTURE
+<div class="row"> 
 <iframe width="560" height="430" src="https://www.youtube.com/embed/PH3kBCSfL-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><p>POPCULTURE</p></iframe>
 <img src="maxresdefault2.jpg" style="width:600px;height:430px;">
 <img src="best-new-artists-2018-complex.jpeg" style="width:600px;height:500px;">
 <img src="download.jpeg" style="width:600px;height:430px;">
+</div>
 <div class="seo-clg__articles"><div class="seo-clg-article"><a href="https://www.complex.com/music/2018/12/swizz-beatz-interview-young-og-poison" class="seo-clg-article__link gtm-click" data-gtm-module="SEO Clg" data-gtm-url="/music/2018/12/swizz-beatz-interview-young-og-poison"><img class="seo-clg-article__img" src="https://images.complex.com/complex/images/c_crop,h_493,w_877,x_2,y_235/c_fill,g_faces,h_194,w_346/fl_lossy,pg_1,q_auto/p9rd2vbbldwswokqrdtq/swizz-beatz-complex-news1" alt="'Young OG': An Interview With Swizz Beatz"><span class="seo-clg-article__headline">'Young OG': An Interview With Swizz Beatz</span></a></div><div class="seo-clg-article"><a href="https://www.complex.com/music/2018/12/ski-mask-the-slump-god-talks-stokeley-xxxtentacion-drake" class="seo-clg-article__link gtm-click" data-gtm-module="SEO Clg" data-gtm-url="/music/2018/12/ski-mask-the-slump-god-talks-stokeley-xxxtentacion-drake"><img class="seo-clg-article__img" src="https://images.complex.com/complex/images/c_crop,h_615,w_1093,x_0,y_395/c_fill,g_faces,h_194,w_346/fl_lossy,pg_1,q_auto/sfzjcfrp7jb2ggjm3cxo/ski-mask-the-slump-god-complex-news7" alt="Ski Mask the Slump God Talks 'Stokeley,' XXXTentacion, and Trolling Drake"><span class="seo-clg-article__headline">Ski Mask the Slump God Talks 'Stokeley,' XXXTentacion, and Trolling Drake</span></a></div><div class="seo-clg-article"><a href="https://www.complex.com/pop-culture/best-tv-shows-2018/" class="seo-clg-article__link gtm-click" data-gtm-module="SEO Clg" data-gtm-url="/pop-culture/best-tv-shows-2018/"><img class="seo-clg-article__img" src="https://images.complex.com/complex/images/c_fill,g_faces,h_194,w_346/fl_lossy,pg_1,q_auto/jzy3fxdiasy7ywaklgns/best-tv-shows-of-2018" alt="The 30 Best TV Shows of 2018"><span class="seo-clg-article__headline">The 30 Best TV Shows of 2018</span></a></div></div>
  </body>
 </html>

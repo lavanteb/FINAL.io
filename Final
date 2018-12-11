@@ -5,6 +5,11 @@
   <title>website title</title>
  </head>
  <body>
+ 	<style>
+ 		body {
+ 			background-color: #C0C0C0;
+ 		}
+ 	</style>
  	<div class="w3-bar w3-black">
   <a href="#" class="w3-bar-item w3-button"><font size="12" color="Black">COMPLEX</font></a></b>
  <h2><a href="#" class="w3-bar-item w3-button">NEWS</a></h2>
